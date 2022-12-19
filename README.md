@@ -12,7 +12,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+
 
 
 ## Overview
@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-vanilla-css-custom-design-text-animation-RfGBFlMpwK)
-- Live Site URL: [Live Site at Vercel](https://stats-preview-card-component-wheat-delta.vercel.app/)
+- Solution URL: [Click Here](https://github.com/fuzail13/Stats-preview-card-component)
+- Live Site URL: [Click Here](https://stats-preview-card-component-wheat-delta.vercel.app/)
 ## My process
 
 ### Built with
@@ -55,9 +55,7 @@ I learned the basics of Grid and how to use better Figma to import styles and co
 - [Code Pen Fusco](https://codepen.io/fusco/pen/JEJMGX) - Gradient text animation resource
 
 
-## Author
-- Github - [correlucas](https://github.com/correlucas/order-summary-component)
-- Frontend Mentor - [@correlucas](https://www.frontendmentor.io/profile/correlucas)
+
 
 
 
