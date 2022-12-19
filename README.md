@@ -34,7 +34,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here](https://github.com/fuzail13/Stats-preview-card-component)
-- Live Site URL: [Click Here](https://stats-preview-card-component-wheat-delta.vercel.app/)
+- Live Site URL: [Click Here](https://fuzail13.github.io/Stats-preview-card-component/)
+
 ## My process
 
 ### Built with
